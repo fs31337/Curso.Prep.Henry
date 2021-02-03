@@ -1,0 +1,12 @@
+*Objetos
+    Un objeto es una especie de contenedor, que tiene variada informacion sobre una determinada cosa.
+*Propiedades
+    Una propiedad es una cualidad, en este caso informacion o dato sobre un objeto.
+*Métodos
+    Un metodo es una funcionalidad que tiene el objeto, un comportamiento. Puede hacer x cosa.
+*Bucle for…in
+    Un bucle for in especifica señalar a los elementos que se encuentran dentro de la ruta especificada.
+*Notación de puntos vs notación de corchetes
+    Las dos notaciones son maneras de acceder a comportamientos o propiedades de un objeto. La notacion de puntos suele usarse
+    con metodos, y la notacion de corchetes con variables.
+    Por ejemplo si queremos acceder a una variable que contiene espacios en su nombre debemos usar notacion de corchetes
