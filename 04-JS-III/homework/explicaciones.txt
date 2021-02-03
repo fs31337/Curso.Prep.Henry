@@ -1,0 +1,2 @@
+*Arrays
+Un arreglo, es un objeto tipo lista que puede almacenar varios elementos, por ej, numeros, textos, caracteres.

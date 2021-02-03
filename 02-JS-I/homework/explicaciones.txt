@@ -1,0 +1,18 @@
+* Variables
+Una variable es una especie de "contenedor" o "espacio" en el que podemos guardar un valor,
+ este valor puede ser una letra, un numero, una frase, etc. Este espacio o contenedor se va a guardar con un nombre facil que elijamos y que explique lo que contiene .
+ Se llama variable porque este valor que almacenamos puede ser modificado.
+
+* Strings
+Una string es una cadena de texto, puede ser una palabra o varias palabras entre comillas.
+
+* Funciones (argumentos, `return`)
+Una funcion es una manera de crear una o un conjunto de operaciones, asignados a un nombre, que va a ser llamado cuando se desee ejecutarlo.
+Un argumento, es un elemento que se introduce en la funcion, para que esta lo utilice para realizar una accion determinada.
+Return, es la manera en la que una funcion retorna un valor, es decir lo devuelve para que podamos verlo.
+	
+* Declaraciones `if`
+Una declaracion "if" es una manera de plantear una condicion en la ejecucion de una tarea. Si (if) pasa esto, que suceda lo otro. 
+
+* Valores booleanos (`true`, `false`)
+Los valores booleanos se usan basicamente para controlar, por ejemplo si una condicion se cumple o si un proceso ya se realizo correctamente.

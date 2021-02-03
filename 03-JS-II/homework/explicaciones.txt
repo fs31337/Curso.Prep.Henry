@@ -1,0 +1,8 @@
+* `for`
+For se utiliza cuando queremos crear un bucle, luego de este especificamos como va a realizarse el mismo.
+
+* `&&`, `||`, `!`
+
+&& significa and, se usa para verificar que se cumplan o no mas de una condicion.
+|| significa or, se usa para verificar que se cumpla una de dos o mas condiciones.
+! significa "no" se usa para negar una condicion.
