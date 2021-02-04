@@ -1,0 +1,50 @@
+html{
+    height: 100%;
+    margin: 0 auto;
+    background-image: url("https://www.homewallmurals.co.uk/ekmps/shops/allwallpapers/images/clouds-blue-sky-wall-mural-wallpaper-29694-p.jpg");
+    color: black;
+}
+body {
+    display: flex;
+    align-content:center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: red;
+}
+
+div {
+    align-self: center;
+    justify-self: center;
+}
+
+ul{
+    padding: 0;
+    list-style: none;    
+}
+li {
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    padding:30px;  
+}
+img {
+    
+     width:400px;
+    }
+        
+#thirdDiv { 
+    align-self: center;;
+    height: 600px; 
+    width: 500px; 
+    background-color: rgba(50, 80, 180, 0.7); 
+    padding: 50px; 
+    border: solid salmon 4px;
+}
+    
+#spanId {
+    font-size: 18px;
+    margin:50px;
+}
