@@ -1,0 +1,5 @@
+* `prototype`
+prototype sirve para que un objeto creado en base a una clase con un constructor no tenga que contener todos los metodos de la clase sino que pueda acceder a los de ella.
+
+* _Constructors_ (de Clases)
+Un constructor sirve para crear un nuevo objeto y guardarlo en una variable (de referencia). 
